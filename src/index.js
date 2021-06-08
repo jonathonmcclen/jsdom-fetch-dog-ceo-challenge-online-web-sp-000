@@ -44,9 +44,6 @@ function sortDogBreeds(breeds){
     newBreed.innerHTML = key
     location.appendChild(newBreed)
     }
-    
-    
-    
   }
 }
 
@@ -65,10 +62,6 @@ function addDogBreeds(breeds){
     
     newBreed.innerHTML = key
     location.appendChild(newBreed)
-
-    
-    
-    
   }
 }
 
